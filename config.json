@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvarse",
+        "uuid": 4905158,
+        "checksum": "ohzqvq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
